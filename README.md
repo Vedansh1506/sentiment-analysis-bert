@@ -2,7 +2,6 @@
 
 This project performs sentiment analysis on the Sentiment140 dataset, which contains 1.6 million tweets. It explores various techniques ranging from traditional rule-based models to classic machine learning classifiers and a fine-tuned DistilBERT model for sequence classification. The entire workflow is documented in the `Sentiment_BERT.ipynb` Jupyter Notebook.
 
-![Sentiment Analysis Project Visualization](https://i.imgur.com/example.png) ---
 
 ## 📋 Table of Contents
 - [Project Overview](#project-overview)
